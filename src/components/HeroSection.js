@@ -33,7 +33,7 @@ const HeroSection = () => {
                     Projects
                   </Link>
                   <Link
-                    href="Taichen_Ling.pdf"
+                    href="Taichen_Ling_Resume.pdf"
                     className="text-sm font-semibold leading-6 text-gray-900"
                   >
                     View Résumé <span aria-hidden="true">→</span>
